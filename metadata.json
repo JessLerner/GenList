@@ -1,0 +1,6 @@
+{
+  "name": "Citroën Plan - Gestor de Listas de Precios y Cuotas",
+  "description": "Herramienta corporativa para Supervisores y Gerencia para gestión y consulta de listas de precios oficiales, cuotas puras, tramos con sellados de Buenos Aires y suscripciones de planes de ahorro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

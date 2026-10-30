@@ -1,0 +1,6 @@
+{
+  "summary":  "Plan de implementación para la aplicación de listas de precios de planes de ahorro (Citroën y multimarca) para Supervisores y Gerencia. Incluye la estructura de datos extraída de la circular oficial, cálculos de cuotas puras y sellados de Provincia de Buenos Aires, control de perfiles con PIN de seguridad, edición de valores de suscripción y exportaciones (Excel, PDF y WhatsApp).",
+  "updatedAt":  "2026-10-30T01:24:05.871099Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
